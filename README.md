@@ -94,4 +94,4 @@ then run the application and Wait till the application is installed and run into
 
 ## Author
 
-**Nur Muhamad Rum** - (https://nurmuhamadrum.vercel.app/)
+**Nur Muhamad Rum** - (https://nurmuh.web.id/)
